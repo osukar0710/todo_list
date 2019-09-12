@@ -11,4 +11,4 @@ todo_list
 - データはWebstorageへ保存
 
 # URL
-https://github.com/osukar0710/todo_list
+https://osukar0710.github.io/todo_list/
